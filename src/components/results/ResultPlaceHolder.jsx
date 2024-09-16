@@ -6,7 +6,6 @@ const ResultPlaceholder = ({ message }) => {
       <div className="flex flex-wrap justify-between w-full items-center">
         <div className="flex flex-wrap items-center">
           <div className="h-full mr-4">
-            <img src="" className="max-h-[50px]" alt="Placeholder Icon" />
           </div>
           <div className="flex flex-wrap items-center">
             <div className="text-xs w-full"></div>
