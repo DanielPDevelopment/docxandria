@@ -1,6 +1,7 @@
 # Doc-xandria
 
 **Doc-xandria** is a cutting-edge React application designed to streamline access to documentation and APIs across your company's systems. By leveraging real-time conversation analysis, Doc-xandria intelligently fetches and displays relevant documents and APIs during client calls or meetings. This innovative approach empowers you to provide immediate, accurate answers to client inquiries, significantly enhancing your efficiency and professionalism.
+See live preview of doc-xandria [here](https://ofrepose.github.io/docxandria/)
 
 ## Table of Contents
 
